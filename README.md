@@ -3,6 +3,8 @@
 ## Overview
 This Power BI project provides a comprehensive dashboard for analyzing Shopify sales and customer funnel metrics. It includes key performance indicators (KPIs), regional sales data, payment method breakdowns, and product type performance.
 
+![Preview](Preview.png) 
+
 ## Features
 - **Transaction Performance**: Total net sales ($4,180,874), total quantity (7,534), and net average order value ($562.6).
 - **Customer Behavior**: Total customers (4,431), single order customers (2,392), repeated customers (2,039).
